@@ -1,6 +1,6 @@
 # harry-potter-sentiment
 
-To run the shiny from this repository, paste and run the following in the R console: `runGitHub("tick-pathogen-data-exploration", "kevin-ewing")`
+To run the shiny from this repository, paste and run the following in the R console: `runGitHub("harry-potter-sentiment", "kevin-ewing")`
 
 The app is also hosted on `shinyapps.io`, availible here: [Harry Potter Sentiment](https://kevin-ewing.shinyapps.io/HarryPotterAnalysis/).
 
